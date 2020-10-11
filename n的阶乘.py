@@ -4,4 +4,4 @@ def fact(n):
                 value*=count
            return value
 n=int(input("Calculate n! Enter n="))
-print(n,'!=',fact(n))
+print(n,'阶乘=',fact(n))
